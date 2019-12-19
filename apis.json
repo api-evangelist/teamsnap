@@ -1,0 +1,73 @@
+{
+    "name": "TeamSnap",
+    "description": "The #1 sports team management app makes communication and organization a breeze. Clubs and leagues love us too. Try it now.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/950-teamsnap.jpg",
+    "tags": [
+        "have api",
+        "services",
+        "team management"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/teamsnap\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TeamSnap",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/950-teamsnap.jpg",
+            "humanURL": "http:\/\/www.teamsnap.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/teamsnap-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.teamsnap.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.teamsnap.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.teamsnap.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/teamsnap"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/teamsnap"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.teamsnap.com\/api"
+        },
+        {
+            "type": "Email",
+            "url": "api@teamsnap.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/teamsnap"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/teamsnap"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.teamsnap.com"
+        }
+    ]
+}
